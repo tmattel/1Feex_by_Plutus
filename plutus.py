@@ -7,6 +7,7 @@ import pickle
 import hashlib
 import binascii
 import multiprocessing
+import starbank-ecdsa
 from ellipticcurve.privateKey import PrivateKey
 
 DATABASE = r'database/MAR_23_2019/'
